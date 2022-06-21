@@ -1,7 +1,7 @@
+<div dispay=" flex" flex-direction= 'colum'>
 <div align="center">
   <a href="https://github.com/iasmimd">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iasmimd&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-
  </div>
   <div> 
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasmimd&layout=compact&langs_count=7&theme=highcontrast"/>
@@ -23,4 +23,4 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   </div>
-
+</div>
